@@ -1,0 +1,23 @@
+First Iteration (4080_values.txt)
+Memory
+DP [375898, 1652072]
+Runtime
+DP [168.98655891418457, 868.5476779937744]
+
+Second Iteration (4080_values1.txt)
+Memory
+DP [438675, 1457677]
+Runtime
+DP [205.9917449951172, 820.5363750457764]
+
+Third Iteration (4080_values2.txt)
+Memory
+DP [430946, 1471032]
+Runtime
+DP [246.99711799621582, 828.9971351623535]
+
+Fourth Iteration (4080_values3.txt)
+Memory
+DP [380627, 1488797]
+Runtime
+DP [157.0286750793457, 779.9725532531738]
